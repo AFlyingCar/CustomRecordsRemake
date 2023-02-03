@@ -1,0 +1,7 @@
+*.swp
+*~*
+
+run/
+build/
+.idea/
+src/generated/
